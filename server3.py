@@ -30,9 +30,7 @@ from datetime import timedelta, datetime
 # from itertools import izip
 from random import normalvariate, random
 from socketserver import ThreadingMixIn
-
 import dateutil.parser
-
 ################################################################################
 #
 # Config
